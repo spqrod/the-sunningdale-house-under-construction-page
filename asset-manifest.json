@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/the-sunningdale-house-under-construction-page/static/css/main.0eb82cd0.css",
-    "main.js": "/the-sunningdale-house-under-construction-page/static/js/main.8f0e93d8.js",
+    "main.js": "/the-sunningdale-house-under-construction-page/static/js/main.5b4d19dd.js",
     "static/media/background.jpg": "/the-sunningdale-house-under-construction-page/static/media/background.3a2d2aeef16aea7e4868.jpg",
     "index.html": "/the-sunningdale-house-under-construction-page/index.html",
     "main.0eb82cd0.css.map": "/the-sunningdale-house-under-construction-page/static/css/main.0eb82cd0.css.map",
-    "main.8f0e93d8.js.map": "/the-sunningdale-house-under-construction-page/static/js/main.8f0e93d8.js.map"
+    "main.5b4d19dd.js.map": "/the-sunningdale-house-under-construction-page/static/js/main.5b4d19dd.js.map"
   },
   "entrypoints": [
     "static/css/main.0eb82cd0.css",
-    "static/js/main.8f0e93d8.js"
+    "static/js/main.5b4d19dd.js"
   ]
 }
